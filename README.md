@@ -8,8 +8,6 @@ A Sales, Spend &amp; Conversion Analytics Dashboard is a visual, interactive bus
 
 This project focuses on analyzing the given dataset using Power BI to identify important trends, patterns, and performance indicators.
 The primary goal of the project is to transform raw data into meaningful insights that support informed business decisions.
-The dashboard provides an interactive and visually appealing summary of business performance, helping stakeholders quickly understand key metrics.
----
 
 ## 🔍 Data Cleaning & Preparation
 
@@ -180,7 +178,7 @@ Business understanding
 ## 📎 Screenshots
 **Dashboard**
 <p align="center">
-  <img width="850" height="470" src="dashboard.JPG">
+  <img width="850" height="470" src="image.JPG">
 </p> 
 
 
