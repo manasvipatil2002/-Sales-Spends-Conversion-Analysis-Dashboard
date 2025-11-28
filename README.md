@@ -72,21 +72,21 @@ Monthly Trend Measures
 
 **✨ Key Features**
 
-KPI Cards: Highlight overall Sales, Profit, Quantity, and Growth.
+**KPI Cards:** Highlight overall Sales, Profit, Quantity, and Growth.
 
-Trend Analysis Line Charts: Monthly and yearly performance trends.
+**Trend Analysis Line Charts:** Monthly and yearly performance trends.
 
-Bar/Column Charts: Product-wise, category-wise, or region-wise performance.
+**Bar/Column Charts:** Product-wise, category-wise, or region-wise performance.
 
-Pie & Donut Charts: Share contribution of each segment.
+**Pie & Donut Charts:** Share contribution of each segment.
 
-Maps (if applicable): Geographic sales insights.
+**Maps (if applicable):** Geographic sales insights.
 
-Drill-Down & Drill-Through: Detailed view of product, customer, or region.
+**Drill-Down & Drill-Through:** Detailed view of product, customer, or region.
 
-Filters & Slicers: Year, month, category, region, customer type, etc.
+**Filters & Slicers:** Year, month, category, region, customer type, etc.
 
-Interactive Buttons: Page navigation or tooltips.
+**Interactive Buttons:** Page navigation or tooltips.
 
 
 ---
