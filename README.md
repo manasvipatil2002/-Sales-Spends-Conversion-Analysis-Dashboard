@@ -184,7 +184,7 @@ Business understanding
 
 **Schema**
 <p align="center">
-  <img width="850" height="470" src="Img3.png">
+  <img width="850" height="470" src="schema.JPG">
 </p> 
 
 ---
